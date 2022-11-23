@@ -1,0 +1,3 @@
+devtools
+pika
+python-dotenv
